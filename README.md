@@ -2,7 +2,8 @@
 
 - create react app
 - connfigured tailwind css
-
+- login form
+- signup form
 # Feachers
 
 - Login / Sign up
